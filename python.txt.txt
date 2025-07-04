@@ -1,5 +1,6 @@
-# print("hammad sheikh is a good developer")
 this text file is permitted
+# print("hammad sheikh is a good developer")
+
 # print(2)
 
 # print("subhan")
