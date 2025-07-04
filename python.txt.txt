@@ -1,0 +1,94 @@
+# print("hammad sheikh is a good developer")
+
+# print(2)
+
+# print("subhan")
+# a = 34
+# b  =34
+
+# print("the value of 34 + 34 is:" , a + b)
+
+
+# a = input("Enter Your name:")
+# print("my name is" , a)
+
+# x = input("enter the first number:")
+# y = input("enter the second number:")
+# print(int(x) + int(y))
+# print(int(x) - int(y))
+# print(int(x) * int(y))
+# print(int(x) / int(y))
+# print(int(x) // int(y))
+# print(int(x) ** int(y))
+
+# b = input("enter your father name:")
+# print("my father name is" , b)
+
+# z = input("enter the first number:")
+# w = input("enter the second number:")
+
+# print(int(z) - int(w))
+
+
+# print("Calculator Opens!!!!")
+
+# a = input("Enter the first number:")
+# b = input("Enter the second number:")
+
+# print("the sum of both values is:")
+# print(int(a) + int(b))
+
+# print("the sub of both values is:")
+# print(int(a) - int(b))
+
+# print("the multiplication of both values is:")
+# print(int(a) * int(b))
+
+# print("the division of both values is:")
+# print(int(a) / int(b))
+
+# print("the exponential of both values is:")
+# print(int(a) // int(b))
+
+# print("the double multiplication of both values is:")
+# print(int(a) ** int(b))
+
+# a = "Hammad !! !!!"
+# print(a.upper())
+# print(a.lower())
+# print(a.rstrip("!"))
+# print(a.replace("Hammad" , "Mudassar"))
+
+# print(a.split(" "))
+
+heading = "introduction to js"
+
+print(heading.capitalize())
+
+str = "welcome to the hammad sheikh channel"
+print(len(str))
+print(len(str.center(50)))
+
+print(str.endswith("channel"))
+
+str1 = "HeIsAGoodBoy"
+print(str1.find("Is"))
+# print(str1.index("ishi"))
+
+print(str1.isalnum())
+print(str1.isalpha())
+
+print(str1.islower())
+print(str1.isupper())
+
+str2 = "Hammad Is A Super Dupper Boy"
+print(str2.isprintable())
+print(str2.istitle())
+
+str3 = "   "
+print(str3.isspace())
+
+str4 = "Python is a interpretter"
+print(str4.startswith("Python"))
+print(str4.swapcase())
+print(str4.title())
